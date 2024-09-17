@@ -2,7 +2,7 @@
 #ifdef AUDIO_ENABLE
     #include "muse.h"
 #endif
-#include "eeprom.h"
+//#include "eeprom.h"
 
 #define KC_MAC_UNDO LGUI(KC_Z)
 #define KC_MAC_CUT LGUI(KC_X)
