@@ -35,7 +35,8 @@
 // From Oryx
 #define PERMISSIVE_HOLD
 
-#define TAPPING_FORCE_HOLD
+// Deperecated in favor of QUICK_TAP_TERM
+//#define TAPPING_FORCE_HOLD
 
 #undef MOUSEKEY_INTERVAL
 #define MOUSEKEY_INTERVAL 25
