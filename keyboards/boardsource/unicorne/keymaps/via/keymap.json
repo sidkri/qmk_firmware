@@ -10,7 +10,7 @@
                                                         "KC_LWIN",  "KC_LALT",      "KC_BSPC",          "KC_SPC",       "MO(1)",        "LT(5,KC_ESC)"
         ],
         [
-            "_______",  "_______",      "KC_TILD",      "KC_LCBR",  "KC_RCBR",      "KC_CIRC",          "KC_GRV",       "KC_PPLS",      "KC_MINS",  "KC_EQL",       "KC_PERC",      "KC_DEL", 
+            "KC_ESC",   "_______",      "KC_TILD",      "KC_LCBR",  "KC_RCBR",      "KC_CIRC",          "KC_GRV",       "KC_PPLS",      "KC_MINS",  "KC_EQL",       "KC_PERC",      "KC_DEL", 
             "_______",  "_______",      "_______",      "KC_LPRN",  "KC_RPRN",      "KC_PIPE",          "KC_AMPR",      "KC_DLR",       "KC_AT",    "KC_HASH",      "KC_EXLM",      "_______", 
             "_______",  "_______",      "KC_PIPE",      "KC_LBRC",  "KC_RBRC",      "KC_GRV",           "KC_ASTR",      "KC_PSLS",      "KC_PAST",  "KC_BSLS",      "_______",      "_______", 
                                                         "_______",  "_______",      "_______",          "_______",      "_______",      "_______"
@@ -24,8 +24,8 @@
         [
             "_______",  "_______",      "C(KC_F4)",    "A(KC_F12)", "C(KC_F12)",    "S(KC_F4)",         "C(S(KC_LEFT))","C(KC_LEFT)",   "KC_UP",    "C(KC_RGHT)",   "C(S(KC_RGHT))","_______", 
             "_______",  "_______",      "C(KC_MINUS)", "KC_F11",    "KC_F10",       "A(KC_F11)",        "KC_HOME",      "KC_LEFT",      "KC_DOWN",  "KC_RGHT",      "KC_END",       "_______", 
-            "_______",  "_______",      "QK_MACRO_0",  "S(KC_F12)", "QK_MACRO_1",   "KC_F5",            "C(G(KC_LEFT))","C(G(KC_LEFT))","KC_END",   "C(G(KC_RIGHT))","C(G(KC_RIGHT))","KC_ESC", 
-                                                        "_______",  "_______",      "_______",          "_______",      "_______",      "_______"
+            "_______",  "_______",      "QK_MACRO_0",  "S(KC_F12)", "QK_MACRO_1",   "KC_F5",            "C(G(KC_LEFT))","C(G(KC_LEFT))","KC_END",   "C(G(KC_RIGHT))","C(G(KC_RIGHT))","_______", 
+                                                        "_______",  "MO(5)",        "KC_ESC",           "_______",      "_______",      "_______"
         ],
         [
             "_______", "_______",       "_______",      "_______",  "_______",      "_______",          "_______",      "A(KC_LEFT)",   "KC_UP",    "A(KC_RGHT)",   "_______",      "_______", 
