@@ -1,0 +1,3 @@
+To copy from the codespace (remote) to local machine:
+
+gh cs cp -e remote:/workspaces/qmk_firmware/boardsource_unicorne_via.uf2 boardsource_unicorne_via.uf2
