@@ -35,6 +35,12 @@ void oled_render_layer_state(void) {
         case 4:
             oled_write_ln_P(PSTR("CTRL "), false);
             break;
+        case 5:
+            oled_write_ln_P(PSTR("GAME "), false);
+            break;
+        case 6:
+            oled_write_ln_P(PSTR("GAME+"), false);
+            break;
     }
     oled_write_ln_P(PSTR("-----"), false);
 }
